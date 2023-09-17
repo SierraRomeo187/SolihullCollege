@@ -75,4 +75,3 @@ Happy coding!
 
 ```
 
-Replace the placeholders with your actual project details, such as repository URLs, screenshots, and license information. This README.md file will provide essential information for your students and other potential users of your application when they visit your GitHub repository.
