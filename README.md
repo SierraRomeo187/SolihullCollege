@@ -38,7 +38,7 @@ Follow these steps to get the Number Converter App up and running on your local 
 1. Clone this repository to your local machine using:
 
    ```bash
- [  git clone https://github.com/SierraRomeo187/SolihullCollege.git
+ git clone https://github.com/SierraRomeo187/SolihullCollege.git
    ```
 
 2. Open the project in Visual Studio.
