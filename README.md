@@ -2,7 +2,7 @@
 tags:
   - code
   - U19
-  - CSharp
+  - C#
 date: 2023-09-02 14:26
 File Modified: 2023-09-17 20:27
 File Folder: ProjectBinTendoDs
@@ -10,7 +10,6 @@ Type: Code
 ---
 
 ---
-![Screenshot](Nintendo-MockupDrawing 2023-09-16 16.31.44.excalidraw 1.png)
 ```markdown
 # Number Converter App
 
@@ -68,9 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Special thanks to the developers who contributed to this project.
-
-Happy coding!
-
+- Special thanks to my daughters for inspiration!
 ```
 
