@@ -9,10 +9,8 @@ File Folder: ProjectBinTendoDs
 Type: Code
 ---
 
----
-```markdown
 # Number Converter App
-
+![Imgur](https://i.imgur.com/56N20uj.png)
 
 This is a simple Number Converter App built using C# and Windows Forms. It allows users to convert numbers between different formats, such as Denary, Binary, Hexadecimal, ASCII, and Octal.
 
@@ -35,9 +33,9 @@ Follow these steps to get the Number Converter App up and running on your local 
 
 1. Clone this repository to your local machine using:
 
-   ```bash
+```bash
  git clone https://github.com/SierraRomeo187/SolihullCollege.git
-   ```
+```
 
 2. Open the project in Visual Studio.
 
@@ -68,4 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Special thanks to my daughters for inspiration!
-```
