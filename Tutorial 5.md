@@ -77,4 +77,5 @@ In Part 5, you've learned how to:
 
 You now have a fully functional Number Converter App that you can distribute, share, or use as a foundation for future projects. Keep exploring and building more exciting applications with C# and Windows Forms!
 
-Thank you for following this tutorial series, and best of luck with your programming endeavors!
+Thank you for following this tutorial series, and best of luck with your programming endeavours!
+![Imgur](https://i.imgur.com/56N20uj.png)
